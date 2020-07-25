@@ -34,7 +34,7 @@ Smart Shoes functional using raspberry pi and Python. Use Data Collection, Data 
 ### Contact
 
   <a href="https://www.linkedin.com/in/satyabansahoo2000">
-    <img align="left" alt="Satyaban Sahoo | Linkedin" width="24px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+    <img align="left" alt="Satyaban Sahoo | Linkedin" width="48px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
   <a href="https://twitter.com/satyabansahoo2k?lang=en">
     <img align="left" alt="Satyaban Sahoo | Twitter" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
