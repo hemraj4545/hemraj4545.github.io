@@ -37,7 +37,7 @@ A simple analysis of COVID-19 using a dataset of all countries, till April.
  
 Smart Shoes functional using raspberry pi and Python. Use Data Collection, Data Analysis and Data Visualization skills to provide a person detail analysis of his/her health issues.
 
-### Contact
+## Contact
 
   <a href="https://www.linkedin.com/in/satyabansahoo2000">
     <img align="left" alt="Satyaban Sahoo | Linkedin" width="48px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
