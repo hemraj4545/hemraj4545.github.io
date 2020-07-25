@@ -23,9 +23,15 @@ Sentiment Analysis of IDMB reviews using scikit-learn and regression model
 
 Dataset - [Movie Review Dataset](https://www.mediafire.com/file/6c5er1odhjp7e8g/movie_data.csv/file)
 
+![](/images/French_satire.png)
+
 ### [Project 3 : COVID-19 Analysis](https://github.com/hemraj4545/COVID-19-Analysis)
 
 A simple analysis of COVID-19 using a dataset of all countries, till April.
+
+![](/images/healthy_max_infection.png)
+![](/images/gdp_max_infection.png)
+![](/images/social_max_infection.png)
 
 ### [Project 4 : Project for WalkTaker](https://github.com/hemraj4545/Project-for-walktaker)
  
