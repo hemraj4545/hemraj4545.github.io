@@ -1,12 +1,10 @@
 ## Hello, Satyaban Sahoo here.
 
-You can use the [editor on GitHub](https://github.com/hemraj4545/hemraj4545.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Contrary to popular belief, math has always been a sphere of comfort, a trainer, and a tour guide in my life. It led me to explore logical thinking and strategy, led me to programming languages, let me explore data science, and assisted me in inculcating practical learning. Owing to my experiences, I have been a tutor and a freelancer, and I choose to continue my exploration. Exploring more brings me to the interest in data science and analysis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+### [Project 1 : Sliding Tiles Game](https://github.com/hemraj4545/Sliding-Tiles-Game)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
