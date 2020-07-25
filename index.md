@@ -5,31 +5,14 @@ Contrary to popular belief, math has always been a sphere of comfort, a trainer,
 ## Projects
 ### [Project 1 : Sliding Tiles Game](https://github.com/hemraj4545/Sliding-Tiles-Game)
 
+Silding Tiles Game using Python and JSON
 
-```markdown
-Syntax highlighted code block
+A sliding-tile puzzle is a rectangular grid of tile with one empty space. You can slide a tile into an adjacent empty space. The object of the puzzle is to rearrange the tiles into a given goal state.
 
-# Header 1
-## Header 2
-### Header 3
+![tile](https://user-images.githubusercontent.com/38886899/73072756-d45f5980-3edb-11ea-8a81-2dcd34997a64.jpg)
 
-- Bulleted
-- List
+**Part 1 – Reading and Validating Sliding-Puzzle Problems**
+**Part 2 – Sliding-Tile Puzzle Rules**
+**Part 3 – Backtracking Control Strategy**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hemraj4545/hemraj4545.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
