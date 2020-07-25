@@ -12,7 +12,9 @@ A sliding-tile puzzle is a rectangular grid of tile with one empty space. You ca
 ![tile](https://user-images.githubusercontent.com/38886899/73072756-d45f5980-3edb-11ea-8a81-2dcd34997a64.jpg)
 
 **Part 1 – Reading and Validating Sliding-Puzzle Problems**
+
 **Part 2 – Sliding-Tile Puzzle Rules**
+
 **Part 3 – Backtracking Control Strategy**
 
 ### Contact
